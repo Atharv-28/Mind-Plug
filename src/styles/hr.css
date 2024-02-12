@@ -1,0 +1,28 @@
+.conainer{
+
+    min-height: 100vh;
+    width: 80vw;
+    display: flex;
+}
+.improve{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ex{
+    margin-top: 2vh;
+}
+.note{
+    text-align: center;
+}
+
+@media screen and (max-width: 499px) {
+    .improve{
+        flex-direction: column;
+    }
+}
+@media screen and (min-width: 500px) {
+    .ex{
+        max-width: 60vw;
+    }
+}
