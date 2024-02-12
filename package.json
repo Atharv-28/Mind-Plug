@@ -1,5 +1,6 @@
 {
   "name": "mind-plug",
+  "homepage": "https://atharv-28.github.io/Mind-Plug/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
